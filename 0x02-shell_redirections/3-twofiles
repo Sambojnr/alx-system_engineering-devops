@@ -1,0 +1,4 @@
+#!/bin/bash
+cat /etc/pd /etc/hosts
+
+
